@@ -57,6 +57,8 @@ Model win condition: <b> Accuracy (Baseline Acc. is 90%)
 - We have shown the sub-categories that give relatively high return.
 - Analysis remains to be done: which sub-categories have guranteed High Retun (no Low Return)
 - Fund ages between 6-9 years are better, beyond 10 years the the schemes do not show advantage (more Low return)
-- As expected - high risk funds yeild more benefit
+- As expected - high risk funds yield more benefit
+
+
 
 
