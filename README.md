@@ -1,7 +1,4 @@
-# Mutual-Fund-Return-Prediction---Mini-Project
-Mutual Fund Return Prediction - Mini Project
-
-# Project Description
+# Mutual Fund Return Prediction - Mini Project
 
 ## Our client is a fund management firm
 
