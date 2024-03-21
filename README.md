@@ -50,3 +50,15 @@ Model win condition: <b> Accuracy (Baseline Acc. is 90%)
 - Return_3yr(Tagret Category): The return type of the mutual fund scheme over 3 year
    1- High Return
    0- Low Return
+
+  <h1><center>
+Conclusions from Exploratory Data Analysis
+</center></h1>
+
+- The Categories that we found to have high returns are Equity and 'Others'
+- We have shown the sub-categories that give relatively high return.
+- Analysis remains to be done: which sub-categories have guranteed High Retun (no Low Return)
+- Fund ages between 6-9 years are better, beyond 10 years the the schemes do not show advantage (more Low return)
+- As expected - high risk funds yeild more benefit
+
+
