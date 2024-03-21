@@ -51,9 +51,7 @@ Model win condition: <b> Accuracy (Baseline Acc. is 90%)
    1- High Return
    0- Low Return
 
-  <h1><center>
-Conclusions from Exploratory Data Analysis
-</center></h1>
+# Conclusions from Exploratory Data Analysis
 
 - The Categories that we found to have high returns are Equity and 'Others'
 - We have shown the sub-categories that give relatively high return.
