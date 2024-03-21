@@ -59,6 +59,15 @@ Model win condition: <b> Accuracy (Baseline Acc. is 90%)
 - Fund ages between 6-9 years are better, beyond 10 years the the schemes do not show advantage (more Low return)
 - As expected - high risk funds yield more benefit
 
+## Best Models
+
+- Although we were adviced to model using Logistic Regression algorithm, I checked the model performances using Pycaret packages.
+- The results showed that the best model was 'Extra Trees Classifier'.
+- However the accuracy of this model was 94,56%, whereas the Logistic regression provided 94% accuracy for the Test Data.
+- The target Accuracy was 90%. So our models satisfy the target criterion
+- However, using Logistic Regression, the 'Train Accuracy' is 98% and Test Accuracy is 94% - Indicating overfitting during the training process.
+- Thus my data analysis needs more work. 
+
 
 
 
