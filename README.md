@@ -51,6 +51,10 @@ Model win condition: <b> Accuracy (Baseline Acc. is 90%)
    1- High Return
    0- Low Return
 
+<center><img src="https://github.com/chakravsus/Mutual-Fund-Return-Prediction---Mini-Project/blob/main/Data/DataDonutChart.png
+" width= 40% /></center>
+https://github.com/chakravsus/Mutual-Fund-Return-Prediction---Mini-Project/blob/main/Data/DataDonutChart.png
+
 ## Conclusions from Exploratory Data Analysis
 
 - The Categories that we found to have high returns are Equity and 'Others'
