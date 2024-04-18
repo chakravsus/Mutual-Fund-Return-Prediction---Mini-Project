@@ -51,9 +51,8 @@ Model win condition: <b> Accuracy (Baseline Acc. is 90%)
    1- High Return
    0- Low Return
 
-<center><img src="https://github.com/chakravsus/Mutual-Fund-Return-Prediction---Mini-Project/blob/main/Data/DataDonutChart.png
-" width= 40% /></center>
-https://github.com/chakravsus/Mutual-Fund-Return-Prediction---Mini-Project/blob/main/Data/DataDonutChart.png
+![Alt text](https://github.com/chakravsus/Mutual-Fund-Return-Prediction---Mini-Project/blob/main/Data/DataDonutChart.png)
+
 
 ## Conclusions from Exploratory Data Analysis
 
